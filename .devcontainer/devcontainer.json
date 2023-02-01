@@ -1,0 +1,9 @@
+{
+
+    "name": "cride",
+    "dockerComposeFile": "../local.yml",
+    "service": "django",
+    "workspaceFolder": "/app",
+    "shutdownAction": "stopCompose"
+
+}
